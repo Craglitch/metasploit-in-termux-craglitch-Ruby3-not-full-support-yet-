@@ -4,7 +4,8 @@ if you want ruby2 install gushmazuko repo :
 `https://github.com/gushmazuko/metasploit_in_termux`
 
 ### INSTALLATION METASPLOIT FRAMEWORK
-code :
+command and code :
+
 First update and upgrade
 ```
 apt update
