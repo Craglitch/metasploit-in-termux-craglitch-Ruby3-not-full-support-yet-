@@ -29,3 +29,5 @@ msfvenom
 and boom boom boom your metasploit is install 
 you can delete metasploit-in-termux-craglitch-version
 
+### NOTE I RECOMNDED INSTALL USE RUBY2 
+Ruby3 is not fully support yet ok 
